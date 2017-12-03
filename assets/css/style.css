@@ -1,0 +1,37 @@
+/* You may use the following selectors, but it's not required. */
+
+body {
+	font-size: 12pt;
+	font-family: Arial;
+	margin: 0 auto;
+	background-color: #9596FF;
+	text-align: center;
+}
+#header {
+	font-size: 50px;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding: 20px 20px 20px 20px; 
+}
+#subheader {
+	font-style: italic;
+	padding: 0px 20px 20px 20px;
+}
+{
+	text-decoration: none;
+}
+#link{
+	width: 200px;
+	background-color: #ccccff;
+	color: #fff;
+	font-weight: bold;
+	padding: 20px 15px;
+	margin: 35px auto 20px;
+}
+#thumbnail img{
+	width: 500px;
+}
+#description{
+	padding: 0px 20px 20px 350px;
+	width: 600px;
+}
